@@ -1,2 +1,2 @@
 # Java-JWT-Demo
-"# JWT - Springboot 2023"
+"JWT - Springboot "
