@@ -13,6 +13,8 @@ import static com.example.javajwtdemo.enums.Permission.*;
 
 @RequiredArgsConstructor
 public enum Role {
+
+    // You can change role to fit with your project
     GUEST(Collections.emptySet()),
     STAFF(
             Set.of(

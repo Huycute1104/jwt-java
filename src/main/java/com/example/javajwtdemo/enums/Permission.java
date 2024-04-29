@@ -5,6 +5,7 @@ import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
 public enum Permission {
+    // You can change permission to fit with your project
     STAFF_READ("staff:read"),
     STAFF_UPDATE("staff:update"),
     STAFF_CREATE("staff:create"),
