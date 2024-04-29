@@ -1,4 +1,5 @@
 package com.example.javajwtdemo.model;
+import com.example.javajwtdemo.enums.TokenType;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 import lombok.*;
