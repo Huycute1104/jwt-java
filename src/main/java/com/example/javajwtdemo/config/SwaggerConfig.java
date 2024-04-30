@@ -22,7 +22,7 @@ public class SwaggerConfig {
                         addList("Authorization"))
                 .components(new Components().addSecuritySchemes
                         ("Authorization", createAPIKeyScheme()))
-                .info(new Info().title("ROSACEAE REST API")
+                .info(new Info().title("JWT demo REST API")
 //                        .description("Some custom description of API.")
 //                        .version("1.0").contact(new Contact().name("XiJinPing")
 //                                .email( "xi@gmail.com").url("xi.com"))
